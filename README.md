@@ -23,5 +23,5 @@ architecture and pixel-perfect UI.
 ---
 
 ### 📬 Contact
-- 📧 your@email.com
-- 💼 [LinkedIn](your-linkedin-url)
+- 📧 tayyabmakki993@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-tayyab-makki-3077a6144)
