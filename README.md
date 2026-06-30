@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tayyab 👋
 
-<!--
-**tayyabmakki/tayyabmakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Engineer | React · Next.js · TypeScript · Tailwind CSS
 
-Here are some ideas to get you started:
+I build modern, high-performance web applications with clean 
+architecture and pixel-perfect UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?logo=tailwindcss&logoColor=white)
+
+---
+
+### 🚀 Featured Work
+| Project | Description | Live |
+|---|---|---|
+| **MAXXTIME** | Premium watch faces showcase — Next.js 16, TanStack Query, React Hook Form, Zod | [maxxtime.vercel.app](https://maxxtime.vercel.app) |
+
+---
+
+### 📬 Contact
+- 📧 your@email.com
+- 💼 [LinkedIn](your-linkedin-url)
